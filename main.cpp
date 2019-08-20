@@ -7,7 +7,7 @@
  *
  *        Created:  2019-08-12
  *
- *         Author:  Gaston
+ *         Author:  Gaston berdasco romero
  *   Organization:  Universidad Nacional de Costa Rica
  *
  * =====================================================================================
